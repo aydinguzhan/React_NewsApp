@@ -1,0 +1,47 @@
+.foother{
+    display:flex;
+    flex-direction:row;
+    width:100%;
+    height:350px;
+    background-color:black;
+    color:white;
+    font-size:.9rem;
+    margin-top: 2rem;
+   
+}
+.box{
+    margin:auto auto;
+    width:33%;
+    text-align:center;
+}
+
+.Logo{
+    font-size: 4rem;
+}
+input{
+    width: 280px;
+    height:30px;
+    border:none;
+    text-align: center;
+}
+
+
+@media (max-width:930px) {
+    .foother{
+        flex-direction: column;
+        justify-content:center;
+        align-items: center;
+        height:100%;
+        font-size:.5rem;
+    }
+    .Logo{
+        font-size: 1.5rem;
+    }
+    .box{
+        margin-bottom: 5px;
+    }
+    input{
+        width:150px;
+    }
+  
+}

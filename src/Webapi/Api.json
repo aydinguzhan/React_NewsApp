@@ -1,0 +1,35 @@
+[
+    {
+        "id": 1,
+        "title": "Son dakika: Sağlık Bakanlığı'na 20 bin personel alınacak! İşte kadrolar",
+        "description":"Rusya'nın Ukrayna'ya saldırılarında sivillerin çatışmalardan zarar görmemesi adına Rusya ve Ukrayna taraflarının üzerinde anlaştığı tahliye koridorlarından ölüm haberleri geliyor.",
+        "url": "https://foto.haberler.com/manset/2022/03/11/bakan-koca-mujdeyi-verdi-saglik-bakanligi-na-20_14790072_1731_z4.jpg"
+    },
+        {
+        "id": 2,
+        "title":"Akşener'den dikkat çeken Tansu Çiller çıkışı: Benim aklıma Tayyip Erdoğan geliyor",
+        "description": "İstanbul'un en işlek noktalarından birinde yer alan Unkapanı Köprüsü, dün bağlantı yerinden ayrılması nedeniyle trafiğe kapatılmıştı",
+        "url": "https://foto.haberler.com/manset/2022/03/11/aksener-den-dikkat-ceken-tansu-ciller-cikisi_14789034_278_z1.jpg"
+    
+        },
+        {
+          "id": 3,
+          "title": "Che Guevera'yı öldüren asker hayatını kaybetti",
+          "description": "Terán’ın uzun süren bir hastalığın ardından, 80 yaşında hayatını kaybettiği bildirildi.",
+          "url": "https://foto.haberler.com/manset/2022/03/11/che-guevera-yi-olduren-asker-hayatini-kaybetti_14788386_5966_z1.jpg"
+    
+        },
+        {
+          "id": 4,
+          "title": "Merkez Bankası rezervleri bir haftada 2,88 milyar dolar azaldı",
+          "description": "Söz konusu dönemde altın rezervleri, 863 milyon dolar azalarak 42 milyar 944 milyon dolardan 42 milyar 81 milyon dolara düştü.",
+          "url": "https://foto.haberler.com/manset/2022/03/10/merkez-bankasi-nin-rezervlerinde-buyuk-dusus_14786986_30.jpg"
+    
+        },
+        {
+          "id": 5,
+          "title": "Twitch, Rus yayıncılara yapılan ödemeleri durdurdu",
+          "description": "Canlı yayın platformu Twitch'in ise Rus yayıncılara yapılan ödemeleri durdurduğu bildirildi.",
+          "url": "https://foto.haberler.com/haber/2022/03/09/twitch-rus-yayincilara-yapilan-odemeleri-durdurdu-14784114_1544_amp.jpg"
+        }
+]
